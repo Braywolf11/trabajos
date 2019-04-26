@@ -1,0 +1,27 @@
+  #tabla
+        {
+            width: 720px;
+            height: 720px;
+            background: url(img/madera.jpg);
+            border:3px solid #000000 ;
+        }
+        .casilla
+        {
+            width: 72px;
+            height: 72px;
+            float: left;
+            font-size: 3em;
+            text-align: center;
+        }
+        .tenue
+        {
+            background-color: #efefef;
+            
+
+        }
+        .opaca
+        {
+            background-color: #888;
+            
+        }
+        
